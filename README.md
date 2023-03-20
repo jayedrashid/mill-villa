@@ -1,2 +1,2 @@
-# mill-villa
+# Mill Villa
 Millennium Villa
